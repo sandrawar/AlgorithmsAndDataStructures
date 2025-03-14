@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="Lab02 Programowanie dynamiczne.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="TestSet">
+      <HintPath>..\..\AiSD_l2\AiSD_l2\TestSet.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
